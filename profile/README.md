@@ -1,1 +1,1 @@
-# Welcome to the GutHub of REWE International AG
+# Welcome to the GitHub of REWE International AG
